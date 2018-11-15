@@ -22,7 +22,7 @@ public class TestConsumer {
         props.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
         KafkaConsumer<String, String> kafkaConsumer = new KafkaConsumer<String, String>(props);
 
-        System.out.println("hahhahahahahahah");
+        System.out.println("hahhahahahahahahsad SA");
 
         kafkaConsumer.subscribe(Collections.singletonList("second"));
 
