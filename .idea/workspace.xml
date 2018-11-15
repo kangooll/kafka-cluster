@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f309c0a8-79cc-44b9-8a62-7aa4dda19a48" name="Default" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/teststreams/TestConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teststreams/TestConsumer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,14 +73,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="53" />
-          <entry key="java" value="2492" />
+          <entry key="java" value="2507" />
           <entry key="properties" value="21" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2492" />
+          <entry key="JAVA" value="2507" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="21" />
           <entry key="VTL" value="53" />
@@ -98,8 +98,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/teststreams/TestConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="306">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -745,7 +745,7 @@
     <property name="SearchEverywhereHistoryKey" value="ProducerConfig&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java&#10;Config&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java&#10;ProduceCon&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java&#10;ConsumerC&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java&#10;Consu&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java&#10;Producer&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java&#10;ProducerC&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java&#10;ConsumerConf&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java&#10;KafkaConsumer&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java&#10;KafkaConsu&#9;PSI&#9;JAVA://org.apache.kafka.clients.consumer.KafkaConsumer&#10;kaf&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0.jar!/org/apache/kafka/clients/producer/KafkaProducer.class&#10;ProducerCon&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java&#10;ProducerConf&#9;FILE&#9;jar://C:/Java/Java/apache-maven-3.3.9/repository/org/apache/kafka/kafka_2.12/0.11.0.0/kafka_2.12-0.11.0.0.jar!/kafka/producer/ProducerConfig.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542271462777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542272570184" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -1168,7 +1168,7 @@
       <workItem from="1539786048024" duration="3493000" />
       <workItem from="1539826402047" duration="8065000" />
       <workItem from="1539849675068" duration="31000" />
-      <workItem from="1542245272790" duration="1684000" />
+      <workItem from="1542245272790" duration="2662000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1542271419089</created>
@@ -1181,7 +1181,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92090000" />
+    <option name="totallyTimeSpent" value="93068000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1194,6 +1194,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" weight="0.22228146" />
@@ -1212,7 +1213,7 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.23915462" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23942094" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28285077" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32628062" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.10690423" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -1629,8 +1630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/teststreams/TestConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="306">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
